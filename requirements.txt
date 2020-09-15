@@ -1,0 +1,6 @@
+Pillow==5.2.0
+Django==2.1.15
+django-ckeditor==5.9.0
+django-js-asset==1.2.2
+django-pyodbc-azure==2.1.0.0
+pyodbc==4.0.25
